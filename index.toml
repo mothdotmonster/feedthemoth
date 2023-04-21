@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "126242f1502e053f8ae7e6e20870ab0633b04d80e8fad8776213ee15f101c732"
+hash = "c0405173771daa9eee03cb189fe9a468a0930b6e2b452235478a69d9130994b3"
 metafile = true
 
 [[files]]
@@ -237,11 +237,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Bamboo Fix.zip"
-hash = "a40af1c5b65c48f180360255fc2fa125c556b1bf24f83dd9a87e83df6532d98e"
-
-[[files]]
-file = "resourcepacks/Logo.zip"
-hash = "d752e45bbd92e675ff66654c63dd6b5e852e7b9e8b873dce9fe1d72bfbeaf9b4"
+hash = "732f102c4b59d7dad41a3efc1d972c91d78023095be0043f2830667baafbd320"
 
 [[files]]
 file = "scripts/bamboofix.zs"

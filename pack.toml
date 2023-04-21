@@ -1,12 +1,12 @@
 name = "Feed the Moth"
 author = "Chesapeake"
-version = "0.0.1a"
+version = "0.0.1b"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4ec33372fbc333d7ea636850a62ea4a524d2601f726674453db5d16f2d697e6f"
+hash = "f54bee33e152999352892951c8377c2165ebbd474088e1e02accf06eb9946780"
 
 [versions]
 forge = "43.2.8"

@@ -15,3 +15,4 @@ version = "yEUygWBv"
 [option]
 optional = true
 default = false
+description = "Adds LoDs for a better render distance, but is a bit buggy."
