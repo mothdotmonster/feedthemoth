@@ -15,4 +15,3 @@ version = "yEUygWBv"
 [option]
 optional = true
 default = false
-description = "Enables LoDs, somewhat buggy."
