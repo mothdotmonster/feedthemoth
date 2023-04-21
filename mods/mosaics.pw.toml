@@ -1,0 +1,13 @@
+name = "Mosaic"
+filename = "Mosaic_v1.0.3-for-Forge-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09cc6c508267089e92b259e3a68ab3fc7b4504da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4041893
+project-id = 689155

@@ -1,0 +1,13 @@
+name = "Mosaic Masonry"
+filename = "mosaic_masonry-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75546235501509bd3d862abdb7b5f0789e79af2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4389124
+project-id = 822093

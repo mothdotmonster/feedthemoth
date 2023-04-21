@@ -1,0 +1,13 @@
+name = "Create: Mosaic Addition"
+filename = "create-mosaicadditions_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9626f4b7092714baaf3e643db47ed6c0d5935f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4065808
+project-id = 696471

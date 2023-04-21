@@ -1,0 +1,13 @@
+name = "Mosaic Carpentry"
+filename = "mosaic_carpentry-1.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbbdb6a2ab9c9ada434aeecc764815a6977946e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4068673
+project-id = 690226
